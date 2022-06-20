@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jaggerjack61 or Samuel Jarai
 - 👀 I’m interested in application development
-- 🌱 I’m currently learning javascript for mobile and server side development.
 - 📫 You can reach me at jarai.samuel@gmail.com
 
 <!---
