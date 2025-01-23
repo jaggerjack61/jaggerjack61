@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jaggerjack61 or Samuel Jarai
-- 👀 I’m interested in application development
+- 👀 I’m a software engineer with close to decade of development experience
 - 📫 You can reach me at jarai.samuel@gmail.com
 
 <!---
